@@ -1,0 +1,2 @@
+# dinosaur-game
+Just jump
